@@ -1,0 +1,17 @@
+    #visaoGeral {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .esquerda {
+        width: 50%;
+        float: left;
+        padding: 10px;
+    }
+
+    .direita {
+        width: 50%;
+        float: left;
+        padding: 10px;
+    }

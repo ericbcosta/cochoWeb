@@ -1,0 +1,6 @@
+#quemSomos{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+}
